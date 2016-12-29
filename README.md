@@ -8,6 +8,7 @@ With this script we shut down these Ipcams.
 
 Usage:
 - Get yourself a csv file from shodan with jaws/1.0 Ipcams (you will need to pay to get this file).
+- name the csv file shodan_data.csv
 - Put the csv file in the same directory as the script.
 - make the script executible.
 - run the script.
